@@ -1,0 +1,17 @@
+{
+  "name": "lobster-agent-os-flight-recorder",
+  "version": "1.0.0",
+  "description": "A runnable MVP demo for Lobster Agent OS: AI Business Flight Recorder.",
+  "scripts": {
+    "start": "vite --host 127.0.0.1 --port 5173",
+    "dev": "vite --host 127.0.0.1 --port 5173"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
